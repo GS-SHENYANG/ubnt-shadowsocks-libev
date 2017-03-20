@@ -7,10 +7,10 @@
 
 # 兼容性
 
-| 型号                  | 兼容性              |
-| --------------------- | ------------------ |
-| [UBNT EdgeRouter™ X](https://www.ubnt.com/edgemax/edgerouter-x/) | :heavy_check_mark: |
-| [UBNT EdgeRouter™ Lite](https://www.ubnt.com/edgemax/edgerouter-lite/) | 待测试 |
+| 型号 | 架构 | 兼容性 |
+| --------------------- | ------------------ | ------------------ |
+| [UBNT EdgeRouter™ X](https://www.ubnt.com/edgemax/edgerouter-x/) | mipsel | :heavy_check_mark: |
+| [UBNT EdgeRouter™ Lite](https://www.ubnt.com/edgemax/edgerouter-lite/) | mips | 待测试 |
 
 # 参考
 [https://github.com/izerosoul/shadowsocks_erx](https://github.com/izerosoul/shadowsocks_erx)

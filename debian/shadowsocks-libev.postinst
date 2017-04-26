@@ -20,7 +20,7 @@ pathfind() {
 
 case "$1" in
 	configure|reconfigure)
-#		UBNT routers use aufs, so xattr is not supported.
+#		UBNT ER-X router use aufs, so xattr is not supported.
 #		pathfind setcap && setcap \
 #			cap_net_bind_service+ep /usr/bin/ss-local \
 #			cap_net_bind_service,cap_net_admin+ep /usr/bin/ss-redir \
